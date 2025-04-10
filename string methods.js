@@ -52,6 +52,7 @@
 let name="praveen"
 let email="praveennaik0814@gmail.com"
 let bio="Javscript developer"
-
-console.log( `${name}, ${email}, ${bio}`)
+console.log(`-----------------------------`)
+console.log( `name:${name}\n email:${email}\n bio:${bio}`)
+console.log(`-----------------------------`)
 
